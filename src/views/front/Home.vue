@@ -21,7 +21,7 @@ const agritainmentData = ref([])
 const goodsData = ref([])
 
 // 初始化路由器
-const router = useRouter() 
+const router = useRouter()
 
 // 加载农场信息
 const loadInformation = async () => {
